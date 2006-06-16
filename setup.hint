@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libX11 kbproto
+sdesc: "Xorg X Keyboard file library (development)"
+ldesc: "Xorg X Keyboard file library"
