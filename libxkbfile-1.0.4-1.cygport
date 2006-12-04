@@ -1,0 +1,7 @@
+inherit xorg
+
+PKG_NAMES="${PN} ${PN}1 ${PN}-devel"
+PKG_HINTS="setup runtime devel"
+PKG_CONTENTS[0]='usr/share/'
+PKG_CONTENTS[1]='usr/bin/*.dll'
+PKG_CONTENTS[2]='usr/include/ usr/lib/'
