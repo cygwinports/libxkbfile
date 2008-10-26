@@ -3,7 +3,7 @@ libxkbfile
 X.Org X Keyboard file library
 
 Runtime requirements:
-  cygwin-1.5.25-1
+  cygwin-1.5.25-15
   libX11_6-1.1.5-1
 
 Build requirements:
@@ -11,7 +11,7 @@ Build requirements:
   autoconf2.5-2.63-1
   automake1.10-1.10.1-1
   binutils-20080624-2
-  cygport-0.4.1-1
+  cygport-0.4.2-1
   gawk-3.1.6-1
   gcc-core-3.4.4-3
   libtool-2.2.6a-1
@@ -58,6 +58,7 @@ Files included in the binary packages:
   /usr/include/X11/extensions/XKBrules.h
   /usr/include/X11/extensions/XKM.h
   /usr/include/X11/extensions/XKMformat.h
+  /usr/lib/libxkbfile.a
   /usr/lib/libxkbfile.dll.a
   /usr/lib/libxkbfile.la
   /usr/lib/pkgconfig/xkbfile.pc
