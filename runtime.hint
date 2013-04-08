@@ -1,5 +1,0 @@
-category: X11
-requires: libX11_6
-external-source: libxkbfile
-sdesc: "X.Org X Keyboard file library (runtime)"
-ldesc: "X.Org X Keyboard file library"

@@ -1,7 +1,0 @@
-inherit xorg
-
-PKG_NAMES="${PN} ${PN}1 ${PN}-devel"
-PKG_HINTS="setup runtime devel"
-libxkbfile_CONTENTS=	# empty
-libxkbfile1_CONTENTS="usr/bin/cygxkbfile-1.dll usr/share/doc/"
-libxkbfile_devel_CONTENTS="usr/include/ usr/lib/"
