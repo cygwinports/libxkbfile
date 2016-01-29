@@ -1,9 +1,9 @@
 inherit xorg
 
 NAME="libxkbfile"
-VERSION=1.0.8
+VERSION=1.0.9
 RELEASE=1
-CATEGORY="X11"
+CATEGORY="Libs"
 SUMMARY="X.Org X Keyboard file library"
 DESCRIPTION="X.Org X Keyboard file library"
 
